@@ -22,7 +22,7 @@
     <ProjectGuid>{95CE8F19-FC3E-42EA-9A57-DCC0C414049C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>gason</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
